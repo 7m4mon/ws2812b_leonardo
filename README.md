@@ -6,7 +6,7 @@ SDカードに保存されたBMPファイルをLEDマトリクスに表示しま
 SDカードの最大容量は32GBです。
 
 <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/T4P4WamHiCY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    https://www.youtube.com/embed/T4P4WamHiCY
     <br>
     <img alt="" src="ws2812b-controller-arduino-2.jpg"><br>
     <img alt="" src="ws2812b-controller-arduino-1.jpg"><br>
