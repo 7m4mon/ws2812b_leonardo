@@ -2,8 +2,9 @@
 ws2812b_leonardo
 
     
-    SDカードに保存されたBMPファイルをLEDマトリクスに表示します。<br>
-      SDカードの最大容量は32GBです。
+SDカードに保存されたBMPファイルをLEDマトリクスに表示します。
+SDカードの最大容量は32GBです。
+
 <p>
     <img alt="" src="ws2812b-controller-arduino-2.jpg"><br>
     <img alt="" src="ws2812b-controller-arduino-1.jpg"><br>
