@@ -15,7 +15,7 @@ SDカードの最大容量は32GBです。
       <br>
       アニメーションを実現するには、LEDマトリクスの大きさ毎に画像を配列した<br>
       BMPファイルを作成します。</p>
-      <img alt="" src="https://raw.githubusercontent.com/7m4mon/ws2812b_leonardo/master/mario-anim_a_p200.bmp">
+      <img alt="" src="mario-anim_a_p200.bmp">
       <br>
       BMPファイルのヘッダのReserve領域①(bfReserved1)に『LEDマトリクスの幅－１』<br>
       （LEDマトリクスの幅が16ならば15 = 0x0F）を入力します。<br>
