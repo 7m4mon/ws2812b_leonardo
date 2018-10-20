@@ -1,5 +1,9 @@
 # ws2812b_leonardo
 ws2812b_leonardo
+
+    <img alt="" src="ws2812b-controller-arduino-2.jpg"><br>
+    <img alt="" src="ws2812b-controller-arduino-1.jpg"><br>
+    
     <p>SDカードに保存されたBMPファイルをLEDマトリクスに表示します。<br>
       SDカードの最大容量は32GBです。</p>
 <p>電源ONでSDカードにアクセスし、ルートフォルダのファイルに順にアクセスします。<br>
