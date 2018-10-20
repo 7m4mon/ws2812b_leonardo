@@ -1,12 +1,13 @@
 # ws2812b_leonardo
 ws2812b_leonardo
 
+    
+    SDカードに保存されたBMPファイルをLEDマトリクスに表示します。<br>
+      SDカードの最大容量は32GBです。
+<p>
     <img alt="" src="ws2812b-controller-arduino-2.jpg"><br>
     <img alt="" src="ws2812b-controller-arduino-1.jpg"><br>
-    
-    <p>SDカードに保存されたBMPファイルをLEDマトリクスに表示します。<br>
-      SDカードの最大容量は32GBです。</p>
-<p>電源ONでSDカードにアクセスし、ルートフォルダのファイルに順にアクセスします。<br>
+    電源ONでSDカードにアクセスし、ルートフォルダのファイルに順にアクセスします。<br>
       ファイルの属性をチェックし、ヘッダが<span style="font-weight: bold;">32bit</span>のBMPファイルだったならば、<br>
       幅と高さを確認して、OKだったらファイルに1バイトずつアクセスして、<br>
       R,G,Bを順に読み込み、明るさを調整して、LEDマトリクスの配列に格納します。<br>
